@@ -1,0 +1,37 @@
+div.css-1v0mbdj.ebxwdo61{
+   
+    width: 10em;
+    border:solid;
+    border-color: #da7d7d;
+    border-width: 5px;
+    border-radius: 3px;
+    
+    
+    
+    
+    
+
+
+}
+div.css-1vbkxwb.eqr7zpz4{
+    margin-left: 40%;
+    
+
+}
+.stApp {
+    background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.css-1cypcdb {
+    position: relative;
+    top: 2px;
+    background-color: rgb(38, 39, 48);
+    z-index: 999991;
+    min-width: 244px;
+    max-width: 550px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+    background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366")
+}
